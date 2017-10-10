@@ -26,7 +26,7 @@ class SiteNavi extends React.Component {
                 location.pathname === '/'
                 ? 'sidebar-nav-item active'
                 : 'sidebar-nav-item'
-              }>Home</Link>
+              }>Overview</Link>
 
               <Link
                 to="/introduction/"
@@ -43,6 +43,14 @@ class SiteNavi extends React.Component {
                     ? 'sidebar-nav-item active'
                     : 'sidebar-nav-item'
                   }>Research</Link>
+
+                <Link
+                  to="/opportunityareas/"
+                  className={
+                    location.pathname === '/opportunityareas/'
+                    ? 'sidebar-nav-item active'
+                    : 'sidebar-nav-item'
+                  }>Opportunity Areas</Link>
 
                   <Link
                     to="/concepting/"
