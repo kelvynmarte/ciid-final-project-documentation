@@ -66,10 +66,6 @@ class SitePost extends React.Component {
                 {title}
               </a>
             </h1>
-
-            <span className="post-date">
-              <time dateTime={date}>{date}</time>
-            </span>
             <span className="post-date">
               {subtitle}
             </span>
