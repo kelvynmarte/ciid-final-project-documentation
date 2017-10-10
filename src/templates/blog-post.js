@@ -13,7 +13,7 @@ class BlogPostTemplate extends React.Component {
     const site = get(this, 'props.data.site')
     const layout = get(post, 'frontmatter.layout')
     const title = get(post, 'frontmatter.title')
-    const subtitle = get(post, 'frontmatter.subtitle')
+    // const subtitle = get(post, 'frontmatter.subtitle')
 
     const siteTitle = get(site, 'meta.title')
 
@@ -55,7 +55,6 @@ export const pageQuery = graphql`
     site {
       meta: siteMetadata {
         title
-        subtitle
         description
         url
         author
@@ -68,7 +67,6 @@ export const pageQuery = graphql`
       frontmatter {
         layout
         title
-        subtitle
         path
         categories
         date(formatString: "YYYY/MM/DD")

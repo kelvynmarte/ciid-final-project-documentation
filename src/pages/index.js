@@ -62,7 +62,6 @@ export const pageQuery = graphql`
     site {
       siteMetadata {
         title
-        subtitle
         description
         url
         author
@@ -76,7 +75,6 @@ export const pageQuery = graphql`
           frontmatter {
             layout
             title
-            subtitle
             path
             categories
             description
