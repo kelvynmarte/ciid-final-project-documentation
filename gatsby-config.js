@@ -2,7 +2,7 @@ module.exports = {
   siteMetadata: {
     title: 'CIID Final Project Kelvyn Marte',
     description: 'CIID Final Project Kelvyn Marte',
-    url: 'https://jaxx2104.github.io/gatsby-starter-bootstrap',
+    url: 'https://kelvynmarte.github.io/ciid-final-project-documentation',
     author: 'Kelvyn Ornette Sol Marte',
     twitter: 'kelvynmarte',
   },
