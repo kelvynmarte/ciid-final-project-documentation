@@ -82,6 +82,7 @@
   "scripts": {
     "build": "gatsby build",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
+    "deploy-surge": "gatsby build && surge ./public ciid-final-project.surge.sh",
     "develop": "gatsby develop",
     "format": "prettier --write \"**/*.+(js|jsx|json|css|scss)\"",
     "lint": "eslint --ext .js,.jsx --ignore-pattern public .",

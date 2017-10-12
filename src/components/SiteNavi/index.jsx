@@ -20,18 +20,10 @@ class SiteNavi extends React.Component {
 
           <nav className="sidebar-nav">
 
-            <Link
-              to="/"
-              className={
-                location.pathname === '/'
-                ? 'sidebar-nav-item active'
-                : 'sidebar-nav-item'
-              }>Overview</Link>
-
               <Link
                 to="/introduction/"
                 className={
-                  location.pathname === '/introduction/'
+                  location.pathname.endsWith('/introduction/')
                   ? 'sidebar-nav-item active'
                   : 'sidebar-nav-item'
                 }>Introduction</Link>
@@ -39,7 +31,7 @@ class SiteNavi extends React.Component {
                 <Link
                   to="/research/"
                   className={
-                    location.pathname === '/research/'
+                    location.pathname.endsWith('/research/')
                     ? 'sidebar-nav-item active'
                     : 'sidebar-nav-item'
                   }>Research</Link>
@@ -47,7 +39,7 @@ class SiteNavi extends React.Component {
                 <Link
                   to="/opportunityareas/"
                   className={
-                    location.pathname === '/opportunityareas/'
+                    location.pathname.endsWith('/opportunityareas/')
                     ? 'sidebar-nav-item active'
                     : 'sidebar-nav-item'
                   }>Opportunity Areas</Link>
@@ -55,7 +47,7 @@ class SiteNavi extends React.Component {
                   <Link
                     to="/concepting/"
                     className={
-                      location.pathname === '/concepting/'
+                      location.pathname.endsWith('/concepting/')
                       ? 'sidebar-nav-item active'
                       : 'sidebar-nav-item'
                     }>Concepting</Link>
@@ -63,7 +55,7 @@ class SiteNavi extends React.Component {
                     <Link
                       to="/prototyping/"
                       className={
-                        location.pathname === '/prototyping/'
+                        location.pathname.endsWith('/prototyping/')
                         ? 'sidebar-nav-item active'
                         : 'sidebar-nav-item'
                       }>Prototyping</Link>

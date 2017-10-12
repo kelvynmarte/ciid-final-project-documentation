@@ -6,7 +6,7 @@ module.exports = {
     author: 'Kelvyn Ornette Sol Marte',
     twitter: 'kelvynmarte',
   },
-  pathPrefix: '/ciid-final-project-documentation',
+  pathPrefix: '/ciid-final-project-documentation/',
   plugins: [
     {
       resolve: 'gatsby-source-filesystem',

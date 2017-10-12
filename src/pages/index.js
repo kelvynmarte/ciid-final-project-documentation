@@ -47,7 +47,6 @@ class BlogIndex extends React.Component {
           ]}
         />
         <section className="text-center">
-          Home
         </section>
 
       </div>

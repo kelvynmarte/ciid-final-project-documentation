@@ -33,7 +33,7 @@ What can be learned from rural areas? Or different city areas of Copenhagen?
 
 To narrow my topic further down I want to form some assumptions through desk research, compare cities and come up with hypothesis which can lead my research. To get inspired and have a quick dive into the topic I plan to have some interviews with experts in combination with some observations and interviews in Copenhagen.
 
-![](/postit-timeline.png)
+![](postit-timeline.png)
 
 *Planing out my 10 weeks with post-its*
 

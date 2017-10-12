@@ -19,7 +19,7 @@ Those two first weeks I tried to wrap my head around a more concrete topic, whic
 >The biggest challenges I have to deal with as city planner is segregation and property speculation.
 ><footer><cite>—Torkil, 2017</cite></footer>
 
-![Torkil](/torkil.jpg)
+![Torkil](torkil.jpg)
 *Torkil how is working as a city planner, involved in citizen participation for the city of Copenhagen*
 
 >City design is citizens vs citizens, it's a democratic learning process.
@@ -49,15 +49,36 @@ Those two first weeks I tried to wrap my head around a more concrete topic, whic
 
 Going forward with my user research knew I will have to pick a more concrete spot in Copenhagen and either research more around how people cope with factors which are influencing their mental wellbeing or pick one aspect which is influencing mental wellbeing like social networks in the urban neighborhood, stress, loneliness, segregation …
 
-
 ## Additional Research and Inspiration
 
 ![Nicolay](./nicolay.jpg)
 *Nicolay Boyadjiev's lecture talking about the projects at [Strelka](http://strelka.com) during the Techfestival reminded and inspired me that I might have to take a bit of a different approach in integrating user research in my work if I want to design something more innovative.*
 
+>People are very emotional when they are not involved in changes in their sourounding
+><footer><cite>Karin Brandt, coUrbanize, 2016</cite></footer>
+
+![Joao](./joao.jpg)
+
+*During our industry project in Porto I had a inspiring talk with a Portuguese architect.*
+
+>There is a hidden city behind the facades of Porto — talking about the islands (ihlas) in the courtyards of Porto, where the poor working class was and is living.
+><footer><cite>João, 2017</cite></footer>
+
+![Ilhas](./ilhas.jpg)
+
+*When walking through Porto the courtyard in between all this small houses — often only 2 by 2 meter — the street felt very much like a extension of the living room. This is one example but in Portugal I had the feeling that everything is a bit more open to the street and more is happening at the street. This probably influences neighborhoods in Porto and the people living there a lot.*
+
+>The most powerful ingredients in human happiness are strong, positive social connections.
+><footer><cite>Charles Montgomery, Happy City, 2014</cite></footer>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/S7dDtJ8zyEU?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" allowfullscreen></iframe>
+
 <!-- ![Happy City Book](happy-city.jpg) -->
 
 <!-- Add more here resources links … -->
+
+[Online research link collection at are.na](https://www.are.na/share/XDZlqie)
+
 
 ## Field Research
 
@@ -67,7 +88,7 @@ To have a better understanding of those areas and encounter new insights I picke
 
 ### Absalon
 
-Absalon is your living room away from home. Your breakfast café, your afternoon hangout, your evening bar and the place you eat your dinner with 180 other people, which opened two years ago.
+[Absalon](https://absaloncph.dk/) is your living room away from home. Your breakfast café, your afternoon hangout, your evening bar and the place you eat your dinner with 180 other people, which opened two years ago.
 
 ![Absalon](./absalon.jpg)
 
@@ -76,9 +97,47 @@ Absalon is your living room away from home. Your breakfast café, your afternoon
 ![Absalon Map](./absalon-map.png)
 *At Absalon I had a long talk with Abdil who moved from London to Copenhagen Vesterbro two years ago and is now becoming a blacksmith.*
 
+![Sara](./sara.jpg)
+
+*Sara studied sociology and works now at Absalon since one year and is one the founder of the Copenhagen branch of the Linked City Festival and NGO.*
+
+>Our intention with Abaslon was to respect the places — former church — but change it to something completely new.
+><footer><cite>Sara, 2017</cite></footer>
+
+>Our vision is to bring people together. We are thinking a lot about how we can, through very small interventions, get people to interact with each other.
+><footer><cite>Sara, 2017</cite></footer>
+
+>At the communal dinner we introduce neighbors and people get seated. Also people have to share food at the communal dinner.
+><footer><cite>Sara, 2017</cite></footer>
+
+>I have started with the AHA track in organizing events on skill learning and connecting people.
+><footer><cite>Sara, 2017</cite></footer>
+
+>At City Link we try to create more democratic cities through art and culture.
+><footer><cite>Sara, 2017</cite></footer>
+
+>We have been trying to activate the street outside of Absalon the space outside is not really used and unwelcoming.
+><footer><cite>Sara, 2017</cite></footer>
+
+>After the shooting in Nørrebro people got closer together in the community.
+><footer><cite>Sara, 2017</cite></footer>
+
+
 ![Abdil](./abdil.jpg)
 
 *At Absalon I had a long talk with Abdil who moved from London to Copenhagen Vesterbro two years ago and is now becoming a blacksmith.*
+
+>Danes raised here usually stay with their group of people.
+><footer><cite>Abdil, 2017</cite></footer>
+
+>Its hard to make friends here people don't take the time or they are stressed.
+><footer><cite>Abdil, 2017</cite></footer>
+
+>A friend of my sister moved away after studying in Copenhagen 5 years because he did not make any meaningful connections or friends here during that time.
+><footer><cite>Abdil, 2017</cite></footer>
+
+>I have no idea who is living in the same house as I am so I might recognize, even though I life here for two years.
+><footer><cite>Abdil, 2017</cite></footer>
 
 ### Nørrebro Superkilen
 
@@ -89,10 +148,46 @@ Absalon is your living room away from home. Your breakfast café, your afternoon
 
 *Suoerkilen is a public place with playground, sports facilities, skatepark and gastronomy, but also it is one of the main bike lanes through Nørrebro.*
 
+![Gustav](./gustav.jpg)
+
+*Gustav is one of the several people I talked to at Superkilen, he is at the places nearly every day since years in particular to skate but also just hangout with friends.*
+
+>5 years ago the Superkilen was a very dark space.
+><footer><cite>—Gustav, 2017</cite></footer>
+
+>people in the inner city are annoyed by skateboarders in the inner city, I am annoyed by people walking around and just looking at their phone, if they stand still that's not a problem for me. Thats one reason why I spent a lot of time here, here I have my friends and people are not annoyed by skaters.
+><footer><cite>—Gustav, 2017</cite></footer>
+
+>The shooting the last months changed the place a lot, the police is now constantly at the places and people are of course aware of it.
+><footer><cite>—Gustav, 2017</cite></footer>
+
 ![Øen](./superkilen-oen.jpg)
 
-*Øen is one of the places I contacted at Superkilen to think about a collaborate and for a interview.*
+*Øen is a places I contacted at Superkilen to think about a collaborate and for a interview.*
+
+>The shooting the last months changed the place a lot, the police is now constantly at the places and people are of course aware of it.
+><footer><cite>—Gustav, 2017</cite></footer>
 
 
->66% of All Humans Will Live in Cities by 2050
-><footer><cite>—UN, 2014</cite></footer>
+**Maire** is in her mid 40ies, lived in Nørrebro all her live and is very engaged in the community. Se also has two grownups which already moved out and live now in the suburbs.
+
+>The last 20 years cultural events evolved a lot. They do a lot to keep everyone together. Also there is now flea markets, shared dinners I like those a lot.
+><footer><cite>Marie, 2017</cite></footer>
+
+>Nørrebro became a center for tolerance. People here are very open minded, it's easy to get connected for people who move here.
+><footer><cite>Marie, 2017</cite></footer>
+
+>At night I stay at home now after the shootings happened. I would love to feel as save as before again, but I don't look at people differently now, when I see someone at the street.
+><footer><cite>Marie, 2017</cite></footer>
+
+>After the shooting everyone came here to backup and say that this is a good place. that took my heart. People in the community certainly got closer together. We protest silently against the violence happening with cake and donuts.
+><footer><cite>Marie, 2017</cite></footer>
+
+>Nørrebro was a dark place when I was a kid.
+><footer><cite>Marie, 2017</cite></footer>
+
+>A lot of refugees live in this area.
+><footer><cite>Beatrice, 2017</cite></footer>
+
+>I just moved here from Fredriksberg its definitely more mondain in Nørrebro.
+><footer><cite>Beatrice, 2017</cite></footer>
