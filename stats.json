@@ -8,13 +8,17 @@
       "path----557518bd178906f8d58a.js",
       "path----557518bd178906f8d58a.js.map"
     ],
+    "path---prototyping": [
+      "path---prototyping-b47bf7488b23f819e902.js",
+      "path---prototyping-b47bf7488b23f819e902.js.map"
+    ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---research": [
-      "path---research-b12820acb625db5a85f0.js",
-      "path---research-b12820acb625db5a85f0.js.map"
+      "path---research-1988f28cd99a78807f88.js",
+      "path---research-1988f28cd99a78807f88.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-cebdb385162acf68aa94.js",
@@ -25,8 +29,8 @@
       "component---src-layouts-index-js-0a07a2d55b622ba3a078.js.map"
     ],
     "path---index": [
-      "path---index-30fe5f2251213813117a.js",
-      "path---index-30fe5f2251213813117a.js.map"
+      "path---index-8610e3441ff03647b3de.js",
+      "path---index-8610e3441ff03647b3de.js.map"
     ],
     "path---hello-world": [
       "path---hello-world-363e38fabf9b2fe48a2d.js",
@@ -40,17 +44,21 @@
       "commons-462bddcbf2508973c640.js",
       "commons-462bddcbf2508973c640.js.map"
     ],
+    "path---concepting": [
+      "path---concepting-6e880e4672cb5e937a71.js",
+      "path---concepting-6e880e4672cb5e937a71.js.map"
+    ],
     "path---offline-plugin-app-shell-fallback": [
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
       "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-567324dcc0056cfbdf86.js",
-      "app-567324dcc0056cfbdf86.js.map"
+      "app-73f98368e365e9bfe80b.js",
+      "app-73f98368e365e9bfe80b.js.map"
     ],
     "path---opportunityareas": [
-      "path---opportunityareas-a50e4ad3fa160ebaf426.js",
-      "path---opportunityareas-a50e4ad3fa160ebaf426.js.map"
+      "path---opportunityareas-89cfe40de5c231260207.js",
+      "path---opportunityareas-89cfe40de5c231260207.js.map"
     ]
   }
 }
