@@ -28,13 +28,16 @@ The HMWs I where:
 Overall I got some inspiration but also I had the impression everyone was quite tired my ideation being the last of three hours in a row. Prompts and insights on cards would be a good idea to try out next time.
 
 ![](./collective-brainstorm-cluster1.jpg)
-*Ideas Cluster 1, with ideas around connecting the neighborhood through a shared identity, but also just get people together*
+*Ideas cluster 1, with ideas around connecting the neighborhood through a shared identity, but also just get people together*
 
 ![](./collective-brainstorm-cluster2.jpg)
-*Ideas Cluster 2, with ideas around voting and visualisations in the urban environment*
+*Ideas cluster 2, with ideas around voting and visualisations in the urban environment*
 
 ![](./collective-brainstorm-cluster3.jpg)
-*Ideas Cluster 3, with ideas around shared identity but also goods*
+*Ideas cluster 3, with ideas around shared identity but also goods*
+
+![](./brainstorm-urban-play.jpg)
+*Ideas around asynchronous urban play*
 
 ## Related Inspiring Projects
 

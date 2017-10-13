@@ -17,7 +17,7 @@ Urban segregation is one of the biggest problems cities today and also Copenhage
 Maybe this is not so much a direct need for the people as more for the city since we are seeing conflicts and fears arising from it.
 
 >The biggest challenges I have to deal with as city planner is segregation and property speculation.
-><footer><cite>—Torkil, 2017</cite></footer>
+><footer><cite>Torkil, 2017</cite></footer>
 
 >The most powerful ingredients in human happiness are strong, positive social connections.
 ><footer><cite>Charles Montgomery, Happy City, 2014</cite></footer>
@@ -38,5 +38,10 @@ Maybe this is not so much a direct need for the people as more for the city sinc
 In particular I narrowed it down to two interesting approaches to address urban segregation:
 
 ### Playable City
+
+>Playable city ideas are a human response to the coldness and anonymity of the urban environment. By encouraging activities that bring joy, we can create a happier, more cohesive urban future
+><footer><cite>
+<a href="https://www.theguardian.com/cities/2014/sep/04/playable-cities-the-city-that-plays-together-stays-together">THE GUARDIAN, 2014</a>
+</cite></footer>
 
 ### Urban Collective Identity and Empathy

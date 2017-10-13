@@ -14,7 +14,7 @@ class SiteNavi extends React.Component {
               </a>
             </h1>
             <p className="lead">
-              CIID final project documentation of <a href="http://ciid.dk/education/people/students-2017/kelvyn-marte/" target="_blank">Klevyn&nbsp;Marte</a>.
+              CIID final project documentation of <a href="http://ciid.dk/education/people/students-2017/kelvyn-marte/" target="_blank">Kelvyn&nbsp;Marte</a>.
             </p>
           </div>
 

@@ -17,16 +17,16 @@ Those two first weeks I tried to wrap my head around a more concrete topic, whic
 ## First Expert Interviews
 
 >The biggest challenges I have to deal with as city planner is segregation and property speculation.
-><footer><cite>—Torkil, 2017</cite></footer>
+><footer><cite>Torkil, 2017</cite></footer>
 
 ![Torkil](torkil.jpg)
 *Torkil how is working as a city planner, involved in citizen participation for the city of Copenhagen*
 
 >City design is citizens vs citizens, it's a democratic learning process.
-><footer><cite>—Torkil, 2017</cite></footer>
+><footer><cite>Torkil, 2017</cite></footer>
 
 >Don't hold a meeting, hold a party.
-><footer><cite>—Torkil, 2017</cite></footer>
+><footer><cite>Torkil, 2017</cite></footer>
 
 ![Osterbro](./torkil2.jpg)
 *In addition to the interview I also attended an urban planing lecture where Torkil was showing us some concrete examples of neighborhood renewal and climate change resilience projects in the city*
@@ -153,20 +153,20 @@ To have a better understanding of those areas and encounter new insights I picke
 *Gustav is one of the several people I talked to at Superkilen, he is at the places nearly every day since years in particular to skate but also just hangout with friends.*
 
 >5 years ago the Superkilen was a very dark space.
-><footer><cite>—Gustav, 2017</cite></footer>
+><footer><cite>Gustav, 2017</cite></footer>
 
 >people in the inner city are annoyed by skateboarders in the inner city, I am annoyed by people walking around and just looking at their phone, if they stand still that's not a problem for me. Thats one reason why I spent a lot of time here, here I have my friends and people are not annoyed by skaters.
-><footer><cite>—Gustav, 2017</cite></footer>
+><footer><cite>Gustav, 2017</cite></footer>
 
 >The shooting the last months changed the place a lot, the police is now constantly at the places and people are of course aware of it.
-><footer><cite>—Gustav, 2017</cite></footer>
+><footer><cite>Gustav, 2017</cite></footer>
 
 ![Øen](./superkilen-oen.jpg)
 
 *Øen is a places I contacted at Superkilen to think about a collaborate and for a interview.*
 
 >The shooting the last months changed the place a lot, the police is now constantly at the places and people are of course aware of it.
-><footer><cite>—Gustav, 2017</cite></footer>
+><footer><cite>Gustav, 2017</cite></footer>
 
 
 **Maire** is in her mid 40ies, lived in Nørrebro all her live and is very engaged in the community. Se also has two grownups which already moved out and live now in the suburbs.
