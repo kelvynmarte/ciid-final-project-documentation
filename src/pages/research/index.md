@@ -19,7 +19,7 @@ Those two first weeks I tried to wrap my head around a more concrete topic, whic
 >The biggest challenges I have to deal with as city planner is segregation and property speculation.
 ><footer><cite>Torkil, 2017</cite></footer>
 
-![Torkil](torkil.jpg)
+![Torkil](./torkil.jpg)
 *Torkil how is working as a city planner, involved in citizen participation for the city of Copenhagen*
 
 >City design is citizens vs citizens, it's a democratic learning process.
@@ -52,6 +52,7 @@ Going forward with my user research knew I will have to pick a more concrete spo
 ## Additional Research and Inspiration
 
 ![Nicolay](./nicolay.jpg)
+
 *Nicolay Boyadjiev's lecture talking about the projects at [Strelka](http://strelka.com) during the Techfestival reminded and inspired me that I might have to take a bit of a different approach in integrating user research in my work if I want to design something more innovative.*
 
 >People are very emotional when they are not involved in changes in their sourounding
@@ -77,7 +78,28 @@ Going forward with my user research knew I will have to pick a more concrete spo
 
 <!-- Add more here resources links … -->
 
+![Play Ship](./play-ship3.jpg)
+
+*At the harbour next to that Kvæsthusselskabet there is regularly a ship with games arriving. Its mostly popular with kids but also other people stop there and start a game.*
+
+[More tactile games from the game ship](https://photos.app.goo.gl/hLCmj2sTtDfuV32t2)
+
+![Lego House](./lego-house1.jpg)
+
+*The visit I didi to the lego house was in particular interesting when it comes to collaboration and play. The fish wall shows different fishes which are designed by the visitors, which stay there on the wall in addition they are floating in a digital fish tank as well.*
+
+<iframe width="640" height="360" src="https://www.youtube-nocookie.com/embed/v7_q9JaYNkY?rel=0&amp;controls=0&amp;showinfo=0" frameborder="0" gesture="media" allowfullscreen></iframe>
+
+*The stop and motion studio at the Lego House was particular inspiring when it comes to possibly asynchronous engagement.*
+
+[More pictures from the Lego House](https://photos.app.goo.gl/lQh9qT22ceGeOaTG2)
+
+
+### Online Research
+
+
 [Online research link collection at are.na](https://www.are.na/share/XDZlqie)
+
 
 
 ## Field Research
@@ -95,6 +117,7 @@ To have a better understanding of those areas and encounter new insights I picke
 *At Absalon various different activities take places every day like yoga, table tennis and workshops.*
 
 ![Absalon Map](./absalon-map.png)
+
 *At Absalon I had a long talk with Abdil who moved from London to Copenhagen Vesterbro two years ago and is now becoming a blacksmith.*
 
 ![Sara](./sara.jpg)
