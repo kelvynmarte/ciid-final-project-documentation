@@ -9,16 +9,16 @@
       "path----557518bd178906f8d58a.js.map"
     ],
     "path---prototyping": [
-      "path---prototyping-aeff039fc436d96e6a90.js",
-      "path---prototyping-aeff039fc436d96e6a90.js.map"
+      "path---prototyping-0d3304cc2179e218bdf8.js",
+      "path---prototyping-0d3304cc2179e218bdf8.js.map"
     ],
     "component---node-modules-gatsby-plugin-offline-app-shell-js": [
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
       "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
     ],
     "path---research": [
-      "path---research-8ea3e6018b11d1c00113.js",
-      "path---research-8ea3e6018b11d1c00113.js.map"
+      "path---research-0f0c4a01c3ef0c20ece2.js",
+      "path---research-0f0c4a01c3ef0c20ece2.js.map"
     ],
     "component---src-templates-blog-post-js": [
       "component---src-templates-blog-post-js-cebdb385162acf68aa94.js",
@@ -29,36 +29,36 @@
       "component---src-layouts-index-js-e2e7c940df64a625db2d.js.map"
     ],
     "path---index": [
-      "path---index-f8d54e4b456b0ad60ca6.js",
-      "path---index-f8d54e4b456b0ad60ca6.js.map"
+      "path---index-d39cdcf5b2fb32487b99.js",
+      "path---index-d39cdcf5b2fb32487b99.js.map"
     ],
     "path---hello-world": [
-      "path---hello-world-fc0e8f165ce5bcbd0c90.js",
-      "path---hello-world-fc0e8f165ce5bcbd0c90.js.map"
+      "path---hello-world-43e50f73b447203fb6ac.js",
+      "path---hello-world-43e50f73b447203fb6ac.js.map"
     ],
     "path---introduction": [
-      "path---introduction-71bb897d621ee401687d.js",
-      "path---introduction-71bb897d621ee401687d.js.map"
+      "path---introduction-bec3bae939ee530938a0.js",
+      "path---introduction-bec3bae939ee530938a0.js.map"
     ],
     "commons": [
-      "commons-c98b01152894ae2b67c3.js",
-      "commons-c98b01152894ae2b67c3.js.map"
+      "commons-af3fe49751ef4744cf5e.js",
+      "commons-af3fe49751ef4744cf5e.js.map"
     ],
     "path---concepting": [
-      "path---concepting-2a7305462d1c4a4313cc.js",
-      "path---concepting-2a7305462d1c4a4313cc.js.map"
+      "path---concepting-44daa5bbbab82c0c6318.js",
+      "path---concepting-44daa5bbbab82c0c6318.js.map"
     ],
     "path---offline-plugin-app-shell-fallback": [
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js",
-      "path---offline-plugin-app-shell-fallback-1db04e5021b40904aca6.js.map"
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
     ],
     "app": [
-      "app-7927ed44ecf97d64fcf9.js",
-      "app-7927ed44ecf97d64fcf9.js.map"
+      "app-a104e065e34a8c2b2b3c.js",
+      "app-a104e065e34a8c2b2b3c.js.map"
     ],
     "path---opportunityareas": [
-      "path---opportunityareas-58008aa6e257648b517e.js",
-      "path---opportunityareas-58008aa6e257648b517e.js.map"
+      "path---opportunityareas-aff952644538311e53c4.js",
+      "path---opportunityareas-aff952644538311e53c4.js.map"
     ]
   }
 }
